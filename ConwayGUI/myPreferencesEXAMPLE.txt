@@ -1,0 +1,12 @@
+java.awt.Color[r=255,g=0,b=0]
+javax.swing.plaf.ColorUIResource[r=238,g=238,b=238]
+javax.swing.plaf.ColorUIResource[r=238,g=238,b=238]
+java.awt.Color[r=128,g=128,b=128]
+java.awt.Color[r=128,g=128,b=128]
+java.awt.Color[r=0,g=0,b=0]
+5
+5
+out.txt
+null
+x
+5
