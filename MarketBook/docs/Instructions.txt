@@ -1,0 +1,12 @@
+
+Instructions to Import Database:
+1) Open MySQL Workbench
+2) Connect to SQL Server as User "root", with password set to "password" at localhost:3306 and start server
+3) Select RUN SQL Script, Run the "create_database" sql file located in scripts
+4) THEN Select RUN SQL Script, Run the "markets" sql file located in scripts
+5) Now the Database is created and loaded and ready to operate
+
+Instructions to Connect to the Website:
+1) Place the given .WAR file in the apache tomcat's web app folder 
+2) Then select the bin folder of the apache tomcat directory and Select startup.bat
+3) Now the user can go to localhost:8080/MarketBook to view the home page

@@ -1,0 +1,8 @@
+Testing Criteria
+1. Pagination worked going forward back and to selected page numbers
+2. Default Search brought up all Markets
+3. Normal Zip code search worked
+4. Normal city state search worked
+5. Various radii worked
+6. Tried to break searches with random text.
+7. Overall just checked usability and ensured that the data output was correct

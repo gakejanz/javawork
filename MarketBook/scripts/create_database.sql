@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS markets;
+CREATE DATABASE markets;
