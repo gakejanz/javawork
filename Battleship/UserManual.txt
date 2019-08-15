@@ -1,0 +1,21 @@
+Instruction Manual:
+
+Much of the game is self-explanatory or explained by statements printed out to the console.
+
+Connecting Two Computers:
+	-One player must select to be the Host
+	-The other must select to connect to a host or nothing will happen
+	-The host must run ip/ifconfig on the cmd prompt and share the ipv4 address with the client
+	-The client will enter this address in exactly to connect to the host. i.e. The Client would enter 192.168.1.13
+	
+Placing Ships:
+	-Both Users will be prompted to place their ships. One can move the ships in any directions and rotate them, then must hit "End Turn" to finish placing their ship.
+	-The game will wait for both players to finish placing the ships before moving on.
+	-IF the host had previously entered a custom number of ships and saved it to their preferences file, then the host must enter custom ship lengths which will then be sent to the client.
+		-Then both must place ships
+
+Settings Menu:
+	-Used to change certain settings about the program.
+	-Must save Preferences file, this will be loaded next time the program is started. 
+		
+THERE IS NO EXIT BUTTON, BOTH USERS MUST MANUALLY EXIT AND EXIT SERVER. 
