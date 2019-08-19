@@ -41,8 +41,15 @@ Battleship - This is an implementation of the game Battleship, again it has a fu
              needed to run the game to be sent/received between both players.
              
 MarketBook - This is Java EE 8 Web Application that utilizes Apache Tomcat, and mySQL to allow users to query a database
-             on the website server. The database contains all farmer's markets in America. The app allows users to search farmer's
-             markets by ZIP, and City/State, and the radius of their search. This will bring them to a search webpage of a
-             table of all results, it allows users to click on each market's name to view all more information about each 
+             on the website server. The database contains all farmer's markets in America. The app allows users to search   
+             farmer's markets by ZIP, and City/State, and the radius of their search. This will bring them to a search webpage
+             of a table of all results, it allows users to click on each market's name to view all more information about each 
              market. 
+             
+ Anagrams - A Group Project I had worked on with @tdurkin18 and @b-wu8. It is a game in which two players connect to each other,
+            the same 6 letters are generated for both players and they have 60 seconds to come up with as many words as they can
+            in that time frame. The points are then gathered and a winner is declared. An SQL database of words is used to check
+            each players' entries. The UI for this game looks quite pleasing.
+             
+   
               
